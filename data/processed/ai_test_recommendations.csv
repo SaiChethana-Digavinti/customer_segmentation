@@ -1,0 +1,34 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,RFM_Total,Recency_scaled,Frequency_scaled,Monetary_scaled,Cluster,Segment,Marketing_Recommendation,Marketing_Strategy,Recommended_Action,Campaign,Priority,AI_Marketing_Message
+12346,326,1,77183.6,1,1,5,115,7,1.4619928068665424,-0.9552142636712972,3.707716304393321,3,Loyal Customers,"Use cross-selling, upselling, and exclusive member offers.",Cross-selling and upselling,Recommend complementary products and provide exclusive member offers.,Loyal Customer Campaign,Medium,"Dear Valued Customer,
+
+We hope you are loving your previous purchase! To help you get even more out of it, we’ve curated a selection of premium complementary products designed to perfectly pair with your style. 
+
+As a valued member, you also have access to exclusive, member-only offers tailored just for you. 
+
+Discover your personalized recommendations and unlock your special perks today! 
+
+[Explore Exclusive Member Offers]"
+12347,2,7,4310.0,5,5,5,555,15,-2.038734417842785,1.0744251947249353,1.4149034409922063,0,Champions,"Target with premium products, exclusive offers, and loyalty rewards.",Loyalty and premium engagement,"Offer exclusive products, VIP rewards, early access, and premium services.",VIP Loyalty Campaign,High,"Thank you for being one of our most cherished customers! To show our appreciation, we are delighted to grant you exclusive access to our VIP Loyalty experience. 
+
+As a VIP member, you now enjoy early access to new product releases, special rewards, and dedicated premium service. 
+
+Discover your exclusive benefits and shop our newest arrivals before anyone else today.
+
+[Explore Your VIP Perks]"
+12348,75,4,1797.24,2,4,4,244,10,0.3731042355677808,0.3863044476016776,0.7200242808941862,3,Loyal Customers,"Use cross-selling, upselling, and exclusive member offers.",Cross-selling and upselling,Recommend complementary products and provide exclusive member offers.,Loyal Customer Campaign,Medium,"Thank you for being such a valued part of our community! To help you get even more out of your favorite items, we’ve selected a few perfect complementary products we think you’ll love. 
+
+As a special thank you for your continued loyalty, we’ve unlocked an exclusive member offer just for you. 
+
+Visit your account to explore your curated recommendations and claim your exclusive offer today!"
+12349,19,1,1757.55,4,1,4,414,9,-0.6230859205766931,-0.9552142636712972,0.7022869133754331,2,New Customers,Use welcome offers and second-purchase incentives to build loyalty.,Customer onboarding and retention,Provide welcome offers and incentives for the second purchase.,New Customer Welcome Campaign,High,"Welcome to the community! Thank you for joining us—we’re thrilled to have you here. 
+
+To show our appreciation and help you enjoy your next purchase, we’ve added a special welcome offer to your account. It’s our way of saying thanks for choosing us. 
+
+Ready to find your next favorite item? Click the link below to claim your welcome reward and shop our latest collection today!
+
+[Claim Your Reward & Shop Now]"
+12350,310,1,334.4,1,1,2,112,4,1.4245575339360348,-0.9552142636712972,-0.6145138773809342,1,At Risk,Launch win-back campaigns with personalized offers and re-engagement discounts.,Customer win-back,"Send personalized discounts, product reminders, and re-engagement offers.",Win-Back Campaign,Very High,"We miss you! It’s been a while since your last visit, and we’d love to welcome you back. 
+
+To show our appreciation, we’ve placed a special savings offer in your account for your next purchase. Explore our newest arrivals today and treat yourself to something you'll love. 
+
+**[Claim Your Offer & Shop Now]**"

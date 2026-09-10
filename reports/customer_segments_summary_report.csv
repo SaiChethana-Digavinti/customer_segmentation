@@ -1,0 +1,5 @@
+Segment,Customer_Count,Customer_Percentage,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Revenue_Percentage
+At Risk,2,13.3%,74.5,2.0,255.00,510.00,6.3%
+Champions,7,46.7%,20.71,2.0,920.00,6440.00,80.1%
+Lost Customers,2,13.3%,100.0,2.0,260.00,520.00,6.5%
+Loyal Customers,4,26.7%,41.25,2.0,141.25,565.00,7.0%

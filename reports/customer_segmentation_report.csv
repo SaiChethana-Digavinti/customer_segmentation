@@ -1,0 +1,16 @@
+CustomerID,Segment,Recency,Frequency,Monetary,RFM_Score,RFM_Total,Priority,Campaign,Marketing_Strategy,Recommended_Action
+1007,Champions,16,2,1600.00,425,11,High,VIP Rewards Campaign,Reward and retain high-value customers,Offer VIP rewards and early access
+1013,Champions,21,2,1400.00,415,10,High,VIP Rewards Campaign,Reward and retain high-value customers,Offer VIP rewards and early access
+1010,Champions,6,2,950.00,515,11,High,VIP Rewards Campaign,Reward and retain high-value customers,Offer VIP rewards and early access
+1003,Champions,51,2,850.00,244,10,High,VIP Rewards Campaign,Reward and retain high-value customers,Offer VIP rewards and early access
+1005,Champions,39,2,750.00,324,9,High,VIP Rewards Campaign,Reward and retain high-value customers,Offer VIP rewards and early access
+1015,Champions,1,2,520.00,514,10,High,VIP Rewards Campaign,Reward and retain high-value customers,Offer VIP rewards and early access
+1008,Champions,11,2,370.00,523,10,High,VIP Rewards Campaign,Reward and retain high-value customers,Offer VIP rewards and early access
+1012,Loyal Customers,43,2,200.00,332,8,High,Loyalty Program Campaign,Build loyalty with exclusive offers,Provide loyalty discounts
+1014,Loyal Customers,36,2,130.00,331,7,High,Loyalty Program Campaign,Build loyalty with exclusive offers,Provide loyalty discounts
+1009,Loyal Customers,56,2,120.00,241,7,High,Loyalty Program Campaign,Build loyalty with exclusive offers,Provide loyalty discounts
+1006,Loyal Customers,30,2,115.00,441,9,High,Loyalty Program Campaign,Build loyalty with exclusive offers,Provide loyalty discounts
+1011,At Risk,77,2,290.00,133,7,High,Win-Back Campaign,Launch win-back campaigns,Send win-back offers
+1002,At Risk,72,2,220.00,252,9,High,Win-Back Campaign,Launch win-back campaigns,Send win-back offers
+1001,Lost Customers,105,2,370.00,153,9,Medium,Reactivation Campaign,Reactivate inactive customers,Launch reactivation campaign
+1004,Lost Customers,95,2,150.00,152,8,Medium,Reactivation Campaign,Reactivate inactive customers,Launch reactivation campaign

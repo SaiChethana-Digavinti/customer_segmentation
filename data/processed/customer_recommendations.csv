@@ -1,0 +1,16 @@
+CustomerID,Segment,Recency,Frequency,Monetary,RFM_Score,RFM_Total,Marketing_Strategy,Recommended_Action,Campaign,Priority
+1007,Champions,16,2,1600,425,11,Reward and retain high-value customers,Offer VIP rewards and early access,VIP Rewards Campaign,High
+1013,Champions,21,2,1400,415,10,Reward and retain high-value customers,Offer VIP rewards and early access,VIP Rewards Campaign,High
+1010,Champions,6,2,950,515,11,Reward and retain high-value customers,Offer VIP rewards and early access,VIP Rewards Campaign,High
+1003,Champions,51,2,850,244,10,Reward and retain high-value customers,Offer VIP rewards and early access,VIP Rewards Campaign,High
+1005,Champions,39,2,750,324,9,Reward and retain high-value customers,Offer VIP rewards and early access,VIP Rewards Campaign,High
+1015,Champions,1,2,520,514,10,Reward and retain high-value customers,Offer VIP rewards and early access,VIP Rewards Campaign,High
+1008,Champions,11,2,370,523,10,Reward and retain high-value customers,Offer VIP rewards and early access,VIP Rewards Campaign,High
+1012,Loyal Customers,43,2,200,332,8,Build loyalty with exclusive offers,Provide loyalty discounts,Loyalty Program Campaign,High
+1014,Loyal Customers,36,2,130,331,7,Build loyalty with exclusive offers,Provide loyalty discounts,Loyalty Program Campaign,High
+1009,Loyal Customers,56,2,120,241,7,Build loyalty with exclusive offers,Provide loyalty discounts,Loyalty Program Campaign,High
+1006,Loyal Customers,30,2,115,441,9,Build loyalty with exclusive offers,Provide loyalty discounts,Loyalty Program Campaign,High
+1011,At Risk,77,2,290,133,7,Launch win-back campaigns,Send win-back offers,Win-Back Campaign,High
+1002,At Risk,72,2,220,252,9,Launch win-back campaigns,Send win-back offers,Win-Back Campaign,High
+1001,Lost Customers,105,2,370,153,9,Reactivate inactive customers,Launch reactivation campaign,Reactivation Campaign,Medium
+1004,Lost Customers,95,2,150,152,8,Reactivate inactive customers,Launch reactivation campaign,Reactivation Campaign,Medium
