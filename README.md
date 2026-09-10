@@ -1,4 +1,4 @@
-# Customer Segmentation & AI Marketing Platform
+# Customer Segmentation & AI Marketing Recommendation
 
 An enterprise-grade customer analytics and AI marketing recommendation platform powered by **FastAPI**, **MySQL**, **Scikit-learn**, **Pandas**, and **Google Gemini AI**.
 
@@ -60,6 +60,9 @@ Reports are stored in the [`reports/`](./reports/) directory:
 ---
 
 ##  Programmatic Export Endpoints
+## Author
+saichethana
+
 
 - `GET /customers/export/csv`: Export customer table as CSV (supports `?segment=...`, `?priority=...`, `?search=...`).
 - `GET /customers/export/segments-summary/csv`: Export segment metrics summary as CSV.
