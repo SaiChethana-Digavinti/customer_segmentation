@@ -60,8 +60,6 @@ Reports are stored in the [`reports/`](./reports/) directory:
 ---
 
 ##  Programmatic Export Endpoints
-## Author
-saichethana
 
 
 - `GET /customers/export/csv`: Export customer table as CSV (supports `?segment=...`, `?priority=...`, `?search=...`).
@@ -69,3 +67,6 @@ saichethana
 - `GET /customers/statistics`: Aggregated platform statistics.
 - `GET /customers/{customer_id}/ai-recommendation`: Dynamic AI marketing copy.
 - `POST /dataset/segment`: Upload new dataset file to re-calculate segmentation dynamically.
+ ## Author
+sai chethana
+
