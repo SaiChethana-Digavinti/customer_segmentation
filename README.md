@@ -4,7 +4,7 @@ An enterprise-grade customer analytics and AI marketing recommendation platform 
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 1. **Automated RFM Analysis**: Calculates Recency, Frequency, and Monetary metrics across transactional datasets.
 2. **Unsupervised Machine Learning**: K-Means clustering with optimal cluster determination via Silhouette and Elbow evaluation ($K=4$).
@@ -23,7 +23,7 @@ An enterprise-grade customer analytics and AI marketing recommendation platform 
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Environment Setup
 ```bash
@@ -48,7 +48,7 @@ Open your browser at: **[http://127.0.0.1:8000/](http://127.0.0.1:8000/)**
 
 ---
 
-## 📊 Downloadable Reports
+## Downloadable Reports
 
 Reports are stored in the [`reports/`](./reports/) directory:
 
@@ -59,7 +59,7 @@ Reports are stored in the [`reports/`](./reports/) directory:
 
 ---
 
-## 📡 Programmatic Export Endpoints
+##  Programmatic Export Endpoints
 
 - `GET /customers/export/csv`: Export customer table as CSV (supports `?segment=...`, `?priority=...`, `?search=...`).
 - `GET /customers/export/segments-summary/csv`: Export segment metrics summary as CSV.
